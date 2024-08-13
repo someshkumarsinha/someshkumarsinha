@@ -1,4 +1,3 @@
-<!-- ![logo](https://github.com/someshkumarsinha/someshkumarsinha/blob/main/README.md) -->
 <h1 align="center">Hi 👋, I'm SOMESH KUMAR SINHA</h1>
 <h3 align="center">A passionate frontend developer from Patna India</h3>
 
